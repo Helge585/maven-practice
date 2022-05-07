@@ -8,6 +8,10 @@ package ru.kuznetsov.oleg;
  */
 public class App 
 {
+    /**
+     * Выводит в стандартный поток вывода строки "Hello World!" и "One Two Three".
+     * @param args
+     */
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
